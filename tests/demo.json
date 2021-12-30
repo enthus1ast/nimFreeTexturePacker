@@ -1,0 +1,303 @@
+{
+  "frames": {
+    "wheat2.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 123,
+        "h": 75
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 50,
+        "w": 123,
+        "h": 75
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bodenDirt.png": {
+      "frame": {
+        "x": 123,
+        "y": 0,
+        "w": 123,
+        "h": 66
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 59,
+        "w": 123,
+        "h": 66
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bakery.png": {
+      "frame": {
+        "x": 246,
+        "y": 0,
+        "w": 108,
+        "h": 114
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 5,
+        "w": 108,
+        "h": 114
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "wheatFarm.png": {
+      "frame": {
+        "x": 123,
+        "y": 66,
+        "w": 100,
+        "h": 107
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 17,
+        "w": 100,
+        "h": 107
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "haus.png": {
+      "frame": {
+        "x": 0,
+        "y": 75,
+        "w": 89,
+        "h": 102
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 16,
+        "w": 89,
+        "h": 102
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SMALLboden.png": {
+      "frame": {
+        "x": 0,
+        "y": 164,
+        "w": 62,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 30,
+        "w": 62,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Log10.png": {
+      "frame": {
+        "x": 62,
+        "y": 164,
+        "w": 36,
+        "h": 29
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 36,
+        "y": 58,
+        "w": 36,
+        "h": 29
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Log5.png": {
+      "frame": {
+        "x": 98,
+        "y": 164,
+        "w": 35,
+        "h": 24
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 37,
+        "y": 63,
+        "w": 35,
+        "h": 24
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Log9.png": {
+      "frame": {
+        "x": 62,
+        "y": 193,
+        "w": 36,
+        "h": 28
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 36,
+        "y": 59,
+        "w": 36,
+        "h": 28
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Log7.png": {
+      "frame": {
+        "x": 0,
+        "y": 197,
+        "w": 36,
+        "h": 26
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 36,
+        "y": 61,
+        "w": 36,
+        "h": 26
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Log8.png": {
+      "frame": {
+        "x": 36,
+        "y": 197,
+        "w": 36,
+        "h": 26
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 36,
+        "y": 61,
+        "w": 36,
+        "h": 26
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Log6.png": {
+      "frame": {
+        "x": 0,
+        "y": 223,
+        "w": 35,
+        "h": 26
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 37,
+        "y": 61,
+        "w": 35,
+        "h": 26
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "texture.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 360,
+      "h": 249
+    },
+    "scale": 1
+  }
+}
